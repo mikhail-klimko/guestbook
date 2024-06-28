@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: nginx
   labels:
-    version: 0.2.0-rc.9
+    version: 0.2.0-rc.10
 spec:
   replicas: 1
   revisionHistoryLimit: 3
