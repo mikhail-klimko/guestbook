@@ -1,0 +1,6 @@
+dependencies:
+- name: nginx
+  repository: oci://registry-1.docker.io/bitnamicharts
+  version: 18.2.2
+digest: sha256:c8acd22435762e7483c1406487e8ccb47bf301e9872a712a77d9a60dba37784b
+generated: "2024-10-10T17:19:59.112468078+03:00"
