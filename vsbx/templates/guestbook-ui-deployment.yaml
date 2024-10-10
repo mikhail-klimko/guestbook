@@ -8,7 +8,7 @@ spec:
   selector:
     matchLabels:
       app: nginx
-      version: v0.3.3
+      version: v0.3.4
   template:
     metadata:
       labels:
