@@ -1,8 +1,0 @@
-apiVersion: v2
-description: nginx
-name: nginx
-version: 0.1.0
-dependencies:
-  - name: nginx
-    repository: oci://registry-1.docker.io/bitnamicharts
-    version: 18.2.2
