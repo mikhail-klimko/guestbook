@@ -16,7 +16,7 @@ spec:
         alice: bob
     spec:
       containers:
-        - image: gcr.io/heptio-images/ks-guestbook-demo:0.1
+        - image: gcr.io/google-samples/gb-frontend:v5
           name: guestbook-ui-test
           ports:
             - containerPort: 80
